@@ -1,0 +1,14 @@
+✘ Daily Task Managemnt
+✔ Email Management
+✔ Revice HTML
+✘ Revice CSS
+✔ Revice JS
+✔ Revice PHP
+✘ Revice MYSQL
+✔ Learn Wordpress Standards for HTML, CSS, JS, PHP
+✘ Learn Document Management
+✘ Making WP Plugin
+  ✔ Base WP Structure
+  ✘ Inblock shortcode element
+  ✘ WP DB
+✘ Making WP Theme
