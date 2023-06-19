@@ -1,5 +1,7 @@
 ✘ Daily Task Managemnt
 ✔ Email Management
+✔ Project Management for Wordpress
+✘ Security Awareness for Wordpress
 ✔ Revice HTML
 ✘ Revice CSS
 ✔ Revice JS
@@ -10,5 +12,5 @@
 ✘ Making WP Plugin
   ✔ Base WP Structure
   ✘ Inblock shortcode element
-  ✘ WP DB
+  ✘ WP DB                                        -- in progress
 ✘ Making WP Theme
