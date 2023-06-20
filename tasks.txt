@@ -1,6 +1,19 @@
+// ✔ = done, ✘ = not done, -- = in progress
 ✘ Daily Task Managemnt
+  // Prepare for the day
+  // Understand the capacity of the day
 ✔ Email Management
+  // Labeling
+  // Grouping
+  // Signature
+  // Template
 ✔ Project Management for Wordpress
+  // Documentation
+  // Task Management
+  // Commenting on Code
+  // Version Control
+  // Testing
+  // Deployment
 ✘ Security Awareness for Wordpress
 ✔ Revice HTML
 ✘ Revice CSS
