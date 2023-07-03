@@ -1,6 +1,7 @@
 <?php 
 /**
  * Plugin Name: Birthday Email Sender
+ * Plugin URI: https://shubkb.me/blog/birthday-email-sender
  * Description: This plugin sends an email to the user on his birthday.
  * Version: 0.0.1-dev (18-06-2023)
  * Author: Shubham Kumar Bansal
@@ -13,6 +14,9 @@
  * @license  GPL-2.0+ License
  * @link     https://shubkb.me
  */
+
+defined( 'ABSPATH' ) ?: exit;
+defined( 'WP_UNINSTALL_PLUGIN' ) ?: die;
 
 global $wpdb, $table_prefix;
 $table_name = $table_prefix.'_birthday_extra';

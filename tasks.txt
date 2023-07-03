@@ -1,5 +1,5 @@
 // ✔ = done, ✘ = not done, -- = in progress
-✘ Daily Task Managemnt
+✔ Daily Task Managemnt
   // Prepare for the day
   // Understand the capacity of the day
 ✔ Email Management
@@ -11,19 +11,22 @@
   // Documentation
   // Task Management
   // Commenting on Code
-  // Version Control
+  // Version Control + Git
   // Testing
   // Deployment
 ✘ Security Awareness for Wordpress
 ✔ Revice HTML
 ✘ Revice CSS
 ✔ Revice JS
+✘ Revice JS OOPs
 ✔ Revice PHP
-✘ Revice MYSQL
+✘ Revice PHP OOPs
+✔ Revice MYSQL
 ✔ Learn Wordpress Standards for HTML, CSS, JS, PHP
-✘ Learn Document Management
+✔ Learn Document Management
 ✘ Making WP Plugin
   ✔ Base WP Structure
-  ✘ Inblock shortcode element
-  ✘ WP DB                                        -- in progress
+  ✔ Inblock shortcode element
+  ✔ WP DB
+  ✘ Add costom CSS abd JS
 ✘ Making WP Theme
